@@ -1,4 +1,4 @@
-  ![Banner](https://github.com/Ishita928/Ishita928/blob/main/11zon_resized.png)
+ 
 <h1 align="center">Hi 👋, I'm Ishita Malhotra</h1>
 <h3 align="center">A passionate React developer from India</h3>
 
